@@ -40,7 +40,7 @@
 
 - Final Year Project (AI/ML & DL-based application)  
 - Managing a WordPress-based website focused on community and collaboration:  
-  🔗 [jadhavomkar2608.wordpress.com](https://jadhavomkar2608.wordpress.com)
+  website :🔗 [jadhavomkar2608.wordpress.com](https://jadhavomkar2608.wordpress.com)
 
 ---
 
