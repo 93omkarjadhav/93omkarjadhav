@@ -38,7 +38,9 @@
 
 ### 📌 Currently Working On
 
-- Final Year Project (AI/ML & DL-based application)
+- Final Year Project (AI/ML & DL-based application)  
+- Managing a WordPress-based website focused on community and collaboration:  
+  🔗 [jadhavomkar2608.wordpress.com](https://jadhavomkar2608.wordpress.com)
 
 ---
 
@@ -85,9 +87,7 @@
 #### 🧱 CMS & UI
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-> 🌐 I also manage a WordPress-based website focused on community and collaboration:  
-🔗 [jadhavomkar2608.wordpress.com](https://jadhavomkar2608.wordpress.com)
-
+> 
 
 ---
 
