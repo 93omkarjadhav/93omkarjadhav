@@ -95,19 +95,24 @@
 
 ### 📫 Connect with Me
 
-<a href="https://linkedin.com/in/omkar-jadhav2608" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://instagram.com/_omkar_jadhav26" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
-<a href="https://youtube.com/@javamate-l2g?si=XfG1C1zDxlWe1463" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="javamate" height="30" width="40" />
-</a>  
-<br><br>
-📧 Email: **jadhavomkar2608@gmail.com**
+<p align="left">
+  <a href="https://linkedin.com/in/omkar-jadhav2608" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/_omkar_jadhav26" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  &nbsp;
+  <a href="https://youtube.com/@javamate-l2g?si=XfG1C1zDxlWe1463" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  </a>
+</p>
+
+📧 **Email**: [jadhavomkar2608@gmail.com](mailto:jadhavomkar2608@gmail.com)
 
 ---
+
 
 ⭐️ From [@93omkarjadhav](https://github.com/93omkarjadhav)
 
